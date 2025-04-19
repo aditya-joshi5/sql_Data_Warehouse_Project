@@ -95,5 +95,5 @@ data-warehouse-project/
 
 Hi there! I'm **Aditya Joshi**, currently in my third year of engineering. I have a strong interest in **data analytics** and **data engineering**, and I’m deeply passionate about exploring data-driven solutions to real-world problems. I'm eager to apply my skills and continuously learn in this dynamic field.
 
-**LinkedIn:**[ADITYA JOSHI]((https://www.linkedin.com/in/aditya-joshi5/)).
+**LinkedIn:**[ADITYA JOSHI](https://www.linkedin.com/in/aditya-joshi5/).
 
