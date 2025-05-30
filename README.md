@@ -89,7 +89,8 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-
+## Acknowledgments
+I would like to express my sincere gratitude to Mr. Baraa Khatib Salkini for his invaluable guidance and support throughout this project.
 
 ## 🌟 About Me
 
